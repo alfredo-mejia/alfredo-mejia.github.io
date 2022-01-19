@@ -1,0 +1,28 @@
+{
+  "me": {
+    "name": "Alfredo Mejia",
+    "facebook": " https://www.facebook.com",
+    "twitter": "https://www.twitter.com",
+    "instagram": "https://www.instagram.com",
+    "youtube": "https://www.youtube.com",
+    "linkedin": "https://www.linkedin.com/in/alfredo-mejia",
+    "github": "https://github.com/alfredo-mejia",
+    "resumedownload": "https://drive.google.com/uc?id=1iTiFqS470aCpdxauOMUA23t9CKguIWHV&export=download",
+    "resumeview": "https://drive.google.com/file/d/1iTiFqS470aCpdxauOMUA23t9CKguIWHV/view?usp=sharing",
+    "aboutme1": "My name is Alfredo Mejia, a current Software Engineer @ Oracle. I was born and raised in Los Angeles, California, and eventually moved during high school to Dallas, Texas. I went on to attend the University of Texas at Dallas and graduate with my Bachelor of Science in Software Engineering with degree honors of Summa Cum Laude. I am now attending the University of Texas at Austin for my Master of Science in Computer Science.",
+    "aboutme2": "Besides coding, I enjoy reading books, watching documentaries, watching movies, playing sports, and playing video games. Some of my favorite books are The Great Gatsby, Hamlet, and How to Win Friends & Influence People. Documentaries that I enjoy watching are mostly historical documentaries from the Roman Empire, the Ottoman Empire, WW1, WW2, and more. My favorite movies are Casablanca, the Invasion of the Body Snatchers, and SpiderMan 1. The sports that I enjoy playing are soccer, basketball, volleyball, and badminton. I also enjoy running and playing video games such as FIFA, NBA 2k, and BattleField. Finally, my favorite food is tacos from a restaurant in Southern California called King Taco.",
+    "aboutme3": "I have many aspirations and ambitions in life. I enjoy learning and always seeking to improve myself in any way possible. This is why I enjoy working on numerous side projects that allow me to explore new languages, frameworks, and libraries. This is also why I enjoy reading books, watching documentaries, and seeing old movies. I enjoy the knowledge obtained from those actions. I am constantly trying to improve myself no matter what, as that is how I feel about life: always trying to push yourself out of your comfort and improve yourself as a person, software engineer, reader, viewer of documentaries, and more.",
+    "skillsummary": "I have worked on numerous projects from school projects, personal projects, hackathons, internships, jobs, and more. In school, I learned C++ and Java. Those two languages were taught in my bachelor's degree program. Personally, I learned SQL, Python, React, and Git to complete personal projects and help me further in courses. I also had to learn HTML, CSS, and JavaScript for my hackathons and internship for JP Morgan Chase & Co. Throughout the years I have worked with other technologies and frameworks such as Hadoop, Spark, Scala, React Native, Android SDK, Angular, Gradle, Django, Microsoft Foundation Class (MFC), and REST APIs.",
+
+    "skills": {
+      "C++": 90,
+      "Javascript": 85,
+      "Java": 75,
+      "Sql": 65,
+      "Python": 90,
+      "Html & Css": 80,
+      "React": 75,
+      "Git": 60
+    }
+  }
+}

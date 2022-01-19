@@ -1,0 +1,46 @@
+.my-primary a:hover{
+    color: hsl(204, 86%, 53%);
+}
+
+footer a {
+    color: hsl(0, 0%, 29%);
+}
+
+footer a:hover {
+    color: hsl(204, 86%, 53%);
+}
+
+.dropdown-item.highlighted-item {
+    background: hsl(204, 86%, 53%);
+    color: white;
+}
+
+.dropdown-item.highlighted-item:hover {
+    background: hsl(204, 86%, 53%);
+    color: white;
+}
+
+.page-button-inactive:hover {
+    border: hsl(204, 86%, 53%) 1px solid;
+}
+
+.row:hover td{
+    background: hsl(204, 86%, 53%);
+    color: white !important;
+}
+
+.nav-link.navbar-item:focus {
+    color: hsl(204, 86%, 53%);
+}
+
+.article-links a {
+    color: inherit;
+}
+
+.article-links a:hover {
+    color: hsl(204, 86%, 53%);
+}
+
+.recent-project-link p:hover {
+    color: hsl(204, 86%, 53%) !important;
+}
